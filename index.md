@@ -1,10 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 
 <style>
 .body {
     background-color: rgb(244, 248, 248);
+	min-width: 1200px;
 }
 /* On smaller screens*/
 @media screen and (max-height: 3800px) {
