@@ -292,7 +292,6 @@ function closeSide() {
         <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeSide()">&times;</a>
         <a href="#about">About</a>
-        <a href="#education">Education</a>
         <a href="#work-experience">Work Experience</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
