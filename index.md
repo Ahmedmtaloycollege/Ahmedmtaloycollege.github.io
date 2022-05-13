@@ -411,7 +411,7 @@ function closeSide() {
               </div>
           </section>
           <section id="projects">
-	<form>
+	<form style="width:200px;">
             <h2>Projects</h2>
             Select a Project :
             <select id="background" onchange="projectSelector(this)">
