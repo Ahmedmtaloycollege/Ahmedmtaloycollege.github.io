@@ -343,8 +343,7 @@ function closeSide() {
                     </p>
                     <h1>Education</h1>
                     <strong>BS Computer Science</strong>
-		<h1>Github Page:</h1>
-                 <strong> <a href="https://github.com/mohammedaljohani1">view my github page</a><strong>
+		    </div>
                 <div class="right">
                     <h1>Technical Skills</h1>
                     <div class="container">
