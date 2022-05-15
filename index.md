@@ -468,7 +468,7 @@ function closeSide() {
                 </div>
               </div>
           </section>
-          <section id="Contact" class="contact">
+          <section id="contact" class="contact">
               <h1>Contact Me</h1>
             <form action="action_page.php">
 
