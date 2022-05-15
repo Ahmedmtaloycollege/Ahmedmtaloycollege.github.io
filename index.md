@@ -1,11 +1,14 @@
 
 <html>
 <head>
-
+<title>My Portfolio</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
 <style>
 .body {
     background-color: rgb(244, 248, 248);
-	min-width: 1200px;
+    min-width: 1200px;
 }
 /* On smaller screens*/
 @media screen and (max-height: 3800px) {
@@ -125,6 +128,7 @@
   display: table;
   clear: both;
 }
+/* Style for  banner container */
 .intro{
     background-image: url('https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     -webkit-background-size: cover;
@@ -160,6 +164,7 @@
 	color: #FFFFFF;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
+/* Style for about container */
 .about{ 
     display: flex;
     flex-direction: column;
@@ -207,7 +212,7 @@
 }
 
 /*****/
-
+/* Style for  skill container */
 .container{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -227,7 +232,7 @@
     justify-content: center;
     border-radius:   20px;
 }
-
+/* Style for  skill container */
 .container .skill i{
     font-size:     40px;
     margin-bottom: 10px;
@@ -244,11 +249,11 @@
   box-sizing: border-box; 
   margin-top: 6px; 
   margin-bottom: 16px; 
-  resize: vertical /
+  resize: vertical 
 }
 
 /* Style the submit button with a specific background color etc */
-input[type=submit] {
+.contact input[type=submit] {
   background-color: #04AA6D;
   color: white;
   padding: 12px 20px;
@@ -256,7 +261,7 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
-input[type=submit]:hover {
+.contact [type=submit]:hover {
   background-color: #45a049;
 }
 
