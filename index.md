@@ -495,6 +495,8 @@ function closeSide() {
           <footer>
             <p>Author: Ahamed Alshehri</p>
             <p><a href="mailto:ahamedalshehri@gmail.com">ahamedalshehri@gmail.com</a></p>
+		  <p> Githu Page:</p>
+		  <p> <a href="https://github.com/mohammedaljohani1">view my github page</a></p>
           </footer>
           <script>
     function projectSelector(selectElem) {
