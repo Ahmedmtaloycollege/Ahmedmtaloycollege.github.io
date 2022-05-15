@@ -544,9 +544,7 @@ function closeSide() {
               accordionIcon[i].innerHTML = accordionContent[i].style.display =='block' ? '-' : '+';  
             });
           }
-          
           </script>
     </div>
 </body>
-
 </html>
